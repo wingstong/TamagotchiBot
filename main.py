@@ -5,7 +5,7 @@ import threading
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot('6032070432:AAF3o7v7E_cO-ySHcqGfIn9FrtdjNx5e3Io')
+bot = telebot.TeleBot('')
 
 user_data = {}
 user_staff = {}
